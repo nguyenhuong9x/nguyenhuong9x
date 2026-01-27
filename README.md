@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=HaAnhThao&desc=Full%20Stack%20Developer&fontSize=90&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn&fontColor=FFFFFF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=NguyenHuong&desc=Full%20Stack%20Developer&fontSize=90&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn&fontColor=FFFFFF" width="100%"/>
 </div>
 
 <div align="center">
@@ -19,13 +19,13 @@
 </div>
 
 <p align="center"> 
-  <a href="https://github.com/thaoanhhaa1?tab=followers">
-    <img src="https://img.shields.io/github/followers/thaoanhhaa1?style=for-the-badge&logo=github&labelColor=black&color=20B2AA" alt="GitHub followers"/>
+  <a href="https://github.com/nguyenhuong9x?tab=followers">
+    <img src="https://img.shields.io/github/followers/nguyenhuong9x?style=for-the-badge&logo=github&labelColor=black&color=20B2AA" alt="GitHub followers"/>
   </a>
-  <a href="https://github.com/thaoanhhaa1?tab=stars">
-    <img src="https://img.shields.io/github/stars/thaoanhhaa1?style=for-the-badge&logo=github&labelColor=black&color=FFD700" alt="GitHub User's stars"/>
+  <a href="https://github.com/nguyenhuong9x?tab=stars">
+    <img src="https://img.shields.io/github/stars/nguyenhuong9x?style=for-the-badge&logo=github&labelColor=black&color=FFD700" alt="GitHub User's stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=thaoanhhaa1&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=nguyenhuong9x&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
 <div align="center">
@@ -46,9 +46,9 @@
 
 -   🔭 I'm currently working on **Full Stack Web Development**
 -   🌱 I'm currently learning **Next.js, SpringBoot, Django, Software Architecture, Blockchain, AI**
--   👨‍💻 All of my projects are available at [GitHub Me](https://github.com/thaoanhhaa1?tab=repositories)
+-   👨‍💻 All of my projects are available at [GitHub Me](https://github.com/nguyenhuong9x?tab=repositories)
 -   💬 Ask me about **React, Node.js, Next.js, Nest.js**
--   📫 How to reach me: **thaoanhhaa1@gmail.com**
+-   📫 How to reach me: **nguyenhuong9x@gmail.com**
 -   🎓 Software Engineering graduate with a GPA of 3.69 and a scholarship throughout my studies
 -   🌐 Portfolio: [https://portfolio.iuh-mern.id.vn](https://portfolio.iuh-mern.id.vn)
 -   ⚡ Fun fact: **I love to learn new technologies and build amazing projects**
@@ -126,24 +126,24 @@
 
 <p align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=radical&preferLogin=false">
-    <img alt="thaoanhhaa1's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/thaoanhhaa1?cardType=level-alternate&theme=radical&preferLogin=false" height="200" />
+    <img alt="nguyenhuong9x's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/nguyenhuong9x?cardType=level-alternate&theme=radical&preferLogin=false" height="200" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thaoanhhaa1&theme=radical" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenhuong9x&theme=radical" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thaoanhhaa1&theme=radical&hide_border=true&background=0D1117&stroke=0000" alt="thaoanhhaa1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhuong9x&theme=radical&hide_border=true&background=0D1117&stroke=0000" alt="nguyenhuong9x" />
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thaoanhhaa1&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nguyenhuong9x&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thaoanhhaa1&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenhuong9x&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 </div>
 
 <div align="center">
@@ -155,17 +155,17 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/thaoanhhaa1/SmartRent">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thaoanhhaa1&repo=SmartRent&theme=radical&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/nguyenhuong9x/SmartRent">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuong9x&repo=SmartRent&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/thaoanhhaa1/ChatApp-CNM-web">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thaoanhhaa1&repo=ChatApp-CNM-web&theme=radical&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/nguyenhuong9x/ChatApp-CNM-web">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuong9x&repo=ChatApp-CNM-web&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 <br />
 <div align="center">
-  <a href="https://github.com/thaoanhhaa1/redux-social-media">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thaoanhhaa1&repo=redux-social-media&theme=radical&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/nguyenhuong9x/redux-social-media">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuong9x&repo=redux-social-media&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
@@ -178,19 +178,19 @@
 </h2>
 
 <div align="center">
-  <a href="mailto:thaoanhhaa1@gmail.com" target="_blank">
+  <a href="mailto:nguyenhuong9x@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/thaoanhhaa1/" target="_blank">
+  <a href="https://www.linkedin.com/in/nguyenhuong9x/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/teamlayloia1/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/thaoanhhaa1/" target="_blank">
+  <a href="https://www.instagram.com/nguyenhuong9x/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://twitter.com/thaoanhhaa1" target="_blank">
+  <a href="https://twitter.com/nguyenhuong9x" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
