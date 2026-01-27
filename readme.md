@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=NguyenHuong&desc=UIUX Designer and Front-end Developer&fontSize=90&fontAlignY=30&descSize=25&descAlignY=55&animation=fadeIn&fontColor=FFFFFF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=NguyenHuong&desc=Full%20Stack%20Developer&fontSize=90&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn&fontColor=FFFFFF" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7007E&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!; User-Centered Design; Micro interactions;Design Thinking; Problem Solving; UX Research; Information Architecture;Lo fi & Hi fi Wireframes; Interactive Prototypes; Responsive+%26+Adaptive Design" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7007E&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;React+%26+Node.js+Expert;Next.js+%26+Nest.js+Developer;Software+Architecture+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -16,7 +16,9 @@
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  <p align="center"> 
+</div>
+
+<p align="center"> 
   <a href="https://github.com/nguyenhuong9x?tab=followers">
     <img src="https://img.shields.io/github/followers/nguyenhuong9x?style=for-the-badge&logo=github&labelColor=black&color=20B2AA" alt="GitHub followers"/>
   </a>
@@ -24,14 +26,11 @@
     <img src="https://img.shields.io/github/stars/nguyenhuong9x?style=for-the-badge&logo=github&labelColor=black&color=FFD700" alt="GitHub User's stars"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=nguyenhuong9x&style=for-the-badge&color=blueviolet" alt="Profile views"/>
-  </p>
-</div>
+</p>
 
-
-
-<!-- <div align="center">
+<div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
-</div> -->
+</div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -41,13 +40,18 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 </h2>
 
--   🔭 I'm currently working on **UIUX Designer**
--   🌱 I'm currently learning **Product Owner, React, AI for Design**
+<!-- <div align="center">
+  <img align="right" height="270px" width="450px" alt="GIF" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
+</div> -->
+
+-   🔭 I'm currently working on **Full Stack Web Development**
+-   🌱 I'm currently learning **Next.js, SpringBoot, Django, Software Architecture, Blockchain, AI**
 -   👨‍💻 All of my projects are available at [GitHub Me](https://github.com/nguyenhuong9x?tab=repositories)
--   💬 Ask me about **UI Design, UX Design**
--   📫 How to reach me: **nguyenhuongwork6868@gmail.com**
--   🌐 Portfolio: [https://portfolio.nguyenhuong.id.vn](https://portfolio.nguyenhuong.id.vn)
--   ⚡ Fun fact: **I always enjoy learning new things and meeting people who are more skilled because they always have a different and better perspective. I am willing to apply the new knowledge and skills I acquire to my work.**
+-   💬 Ask me about **React, Node.js, Next.js, Nest.js**
+-   📫 How to reach me: **nguyenhuong9x@gmail.com**
+-   🎓 Software Engineering graduate with a GPA of 3.69 and a scholarship throughout my studies
+-   🌐 Portfolio: [https://portfolio.iuh-mern.id.vn](https://portfolio.iuh-mern.id.vn)
+-   ⚡ Fun fact: **I love to learn new technologies and build amazing projects**
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -58,7 +62,7 @@
 </h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,webflow,xd,js,react,tailwind,aws,azure,git,github,vscode,notion,discord&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,spring,django,tailwind,bootstrap,redux,graphql,mongodb,mysql,postgres,redis,firebase,aws,azure,docker,git,github,vscode,figma&perline=10" />
 </div>
 
 <details>
