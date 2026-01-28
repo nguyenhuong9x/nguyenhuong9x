@@ -7,7 +7,7 @@
       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,2&height=250&section=header&text=NguyenHuong&desc=Front-end%20Developer%20and%20UIUX%20Designer&fontSize=80&fontAlignY=35&descSize=26&descAlignY=60&animation=fadeIn&fontColor=FFFFFF" />
   </p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7007E&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;UI Design;UX Design;Front-end Developers"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=F7007E&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;UI Design;UX Design;Front-end Developers"
     alt="Typing SVG" />
 </div>
 
