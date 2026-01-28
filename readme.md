@@ -42,7 +42,7 @@
 </h2>
 
 -   🔭 I'm currently working on **UIUX Designer**
--   🌱 I'm currently learning **Product Owner, React, AI for Design**
+-   🌱 I'm currently learning **Product Owner, ReactJS, AI for Design**
 -   👨‍💻 All of my projects are available at [GitHub Me](https://github.com/nguyenhuong9x?tab=repositories)
 -   💬 Ask me about **UI Design, UX Design**
 -   📫 How to reach me: **nguyenhuongwork6868@gmail.com**
