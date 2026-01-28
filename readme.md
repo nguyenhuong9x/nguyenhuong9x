@@ -12,9 +12,9 @@
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-<p> 👋 Hi, I'm <strong>Nguyen Huong,</strong> </p>
+<p style="font-size: 20px;"> 👋 Hi, I'm <strong>Nguyen Huong,</strong> </p>
 
-<p>I have a strong passion for continuous learning and for working with people who inspire me through their expertise.
+<p style="font-size: 16px; font-weight: semibold;">I have a strong passion for continuous learning and for working with people who inspire me through their expertise.
   Every new insight and skill I gain is something I strive to apply meaningfully in my work.</p>
 
 
@@ -51,7 +51,7 @@
 <p>💬 Ask me about <strong>UI Design, UX Design</strong></p>
 <p>📫 How to reach me: <strong><a src="mailto:nguyenhuongwork6868@gmail.com">nguyenhuongwork6868@gmail.com</a></strong>
 </p>
-<p>🌐 Portfolio: <strong><a src="https://portfolio.nguyenhuong.id.vn">https://portfolio.nguyenhuong.id.vn</a></strong>
+<p>🌐 Portfolio: <strong><a src="https://nguyenhuong.framer.website/">https://nguyenhuong.framer.website/</a></strong>
 </p>
 <p>⚡ Fun fact: **I always enjoy learning new things and meeting people who are more skilled because they always have a
   different and better perspective. I am willing to apply the new knowledge and skills I acquire to my work.**
