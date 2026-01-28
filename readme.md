@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7007E&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;User-Centered Design;Micro interactions;Design Thinking;Problem Solving; UX Research; Information Architecture;Lo fi +%26+ Hi fi Wireframes; Interactive Prototypes;Responsive +%26+ Adaptive Design" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F7007E&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;User-Centered Design;Micro interactions;Design Thinking;Problem Solving; UX Research; Information Architecture;Lo fi +%26+ Hi fi Wireframes; Interactive Prototypes;Responsive +%26+ Adaptive Design" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,18 +16,12 @@
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  <p align="center"> 
-  <a href="https://github.com/nguyenhuong9x?tab=followers">
+  <p align="center">
     <img src="https://img.shields.io/github/followers/nguyenhuong9x?style=for-the-badge&logo=github&labelColor=black&color=20B2AA" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/nguyenhuong9x?tab=stars">
     <img src="https://img.shields.io/github/stars/nguyenhuong9x?style=for-the-badge&logo=github&labelColor=black&color=FFD700" alt="GitHub User's stars"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nguyenhuong9x&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=nguyenhuong9x&style=for-the-badge&color=blueviolet" alt="Profile views"/>
   </p>
 </div>
-
-
 
 <!-- <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
@@ -53,16 +47,22 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+<!-- <h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> From Design to Development
+</h2> -->
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNtcnVkdXo4M2xsZHNidjExc2N5ZGI3M3J5azl6Mm16YWl0dDkydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="25"> From Design to Development
 </h2>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,webflow,xd,js,react,tailwind,aws,azure,git,github,vscode,notion,discord&perline=9" />
 </div>
 
+
+
 <details>
-<summary align="center"><h3>🔄 Click to see more technologies</h3></summary>
+<summary align="center"><h3>🔄 Click to see more skills</h3></summary>
 <br>
 <div align="center">
   <h4>🤖 Artificial Intelligence</h4>
@@ -72,43 +72,76 @@
     <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Claude-5A67D8?style=for-the-badge&logo=anthropic&logoColor=white" />
   </p>
-  
-  <h4>☁ Cloud Services</h4>
+  <!-- UI Design -->
+  <!-- <div class="stack-group">
+    <h3>🎨 UI Design</h3>
+    <div class="pill-group">
+      <span class="pill">Figma</span>
+      <span class="pill">Design System</span>
+      <span class="pill">Component Library</span>
+      <span class="pill">Auto Layout</span>
+      <span class="pill">Responsive UI</span>
+      <span class="pill">Interactive Prototype</span>
+      <span class="pill">Micro-interaction</span>
+      <span class="pill">Motion Principles</span>
+      <span class="pill">Lottie</span>
+    </div>
+  </div> -->
+  <h4>🎨 UI Design</h4>
   <p>
-    <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">&nbsp;
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/-Visual Design-430098?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/-Design System-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/-UI Components-000000?style=for-the-badge&logo=vercel&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/-Prototyping-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">&nbsp;
+    <img src="https://img.shields.io/badge/-Motion-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;
   </p>
   
-  <h4>⚡ Database</h4>
+  <h4>🧠 UX Design</h4>
+   <!-- <div class="stack-group">
+    <h3>🧠 UX Design</h3>
+    <div class="pill-group">
+      <span class="pill">User Interview</span>
+      <span class="pill">Survey</span>
+      <span class="pill">Persona</span>
+      <span class="pill">Journey Map</span>
+      <span class="pill">Information Architecture</span>
+      <span class="pill">User Flow</span>
+      <span class="pill">Task Flow</span>
+      <span class="pill">Sitemap</span>
+      <span class="pill">JTBD</span>
+      <span class="pill">Problem Statement</span>
+      <span class="pill">UX Strategy</span>
+    </div>
+  </div> -->
   <p>
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">&nbsp;
+    <img src="https://img.shields.io/badge/-Research & Discovery-47A248?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/-UX Strategy-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/-Information Architecture-336791?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/-UX Flow-003B57?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/-Wireframe-DC382D?style=for-the-badge&logo=redis&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/-Usability Testing-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">&nbsp;
   </p>
+    <!-- Validation -->
+  <!-- <div class="stack-group">
+    <h3>🧪 Validation & Iteration</h3>
+    <div class="pill-group">
+      <span class="pill">Usability Testing</span>
+      <span class="pill">Heuristic Evaluation</span>
+      <span class="pill">A/B Testing</span>
+      <span class="pill">UX Metrics</span>
+      <span class="pill">SUS Score</span>
+      <span class="pill">Task Success Rate</span>
+    </div>
+  </div> -->
   
-  <h4>🛠️ Tools & Technologies</h4>
+  <h4>🛠️ Design Toolkit</h4>
   <p>
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">&nbsp;
-    <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black">&nbsp;
-    <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">&nbsp;
-  </p>
+    <img src="https://img.shields.io/badge/-Photoshop-2496ED?style=for-the-badge&logo=photoshop&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/-Illustrator-007ACC?style=for-the-badge&logo=illustrator&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/-XD-FF6C37?style=for-the-badge&logo=xd&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/-Premiere-2088FF?style=for-the-badge&logo=premiere&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/-After Effects-85EA2D?style=for-the-badge&logo=aftereffects&logoColor=black">&nbsp;
 </div>
 </details>
 
@@ -126,31 +159,30 @@
   </a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenhuong9x&theme=radical" width="100%" />
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhuong9x&theme=radical&hide_border=true&background=0D1117&stroke=0000" alt="nguyenhuong9x" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nguyenhuong9x&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
-</div>
+</div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenhuong9x&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<h2 align="center">
+<!-- <h2 align="center">
   📌 Pinned Repositories
-</h2>
-
-<div align="center">
+</h2> -->
+<!-- <div align="center">
   <a href="https://github.com/nguyenhuong9x/SmartRent">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuong9x&repo=SmartRent&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
@@ -163,7 +195,7 @@
   <a href="https://github.com/nguyenhuong9x/redux-social-media">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuong9x&repo=redux-social-media&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
