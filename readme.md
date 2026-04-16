@@ -159,13 +159,13 @@
 </h2>
 <div align="center">
   <a href="https://github.com/nguyenhuong9x/nguyenhuong9x">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuong9x&repo=nguyenhuong9x&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuong9x&repo=e-learning-platform&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 <br />
 <div align="center">
   <a href="https://github.com/nguyenhuong9x/yearendparty2026">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuong9x&repo=yearendparty2026&theme=radical&hide_border=true&bg_color=0D1117" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhuong9x&repo=leequin&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
